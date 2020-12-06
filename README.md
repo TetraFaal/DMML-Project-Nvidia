@@ -26,8 +26,26 @@ actual test data and submit in the compet
   - Trained the dataframe
   - Submited our 1st prediction on AICrowd
 
-- Week 2: -
-          -
+- Week 2: 
+  - Calculated the base rate
+  - Further cleaning and merging of keywords with the text
+  - Calculated optimal Logistic regression parameters without the merged keywords
+  - Calculated optimal Logistic regression parameters with the merged keywords
+  - Updated the readme file
+  
+- Week 3:
+  - Calculated optimal TFID - vector -> Overfitting
+  - Merged optimal Log regression and tfidf parameters-> Overfitting
+  - Pipeline function with standardization
+  - Completed the readme file
+  - Arranged and cleaned our code on colab
+
+- Last Week:
+  - Regex function - removed hyperlinks, removed special characters
+  - Final Version of the readme file
+  - Final Version of the code
+
+
 
 ### :bulb: Results & Solutions
 
