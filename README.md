@@ -18,12 +18,13 @@ actual test data and submit in the compet
 
 ### :calendar: Weekly summaries
 
-- Week 1: - Created the GitHub repository
-          - Created the colab project linked to the GitHub repository
-          - Cleaned a first time the dataframe
-          - Visualization of the dataframe with some EDA functions
-          - Trained the dataframe
-          - Submited our 1st prediction on AICrowd
+- Week 1 
+ - Created the GitHub repository
+ - Created the colab project linked to the GitHub repository
+ - Cleaned a first time the dataframe
+ - Visualization of the dataframe with some EDA functions
+ - Trained the dataframe
+ - Submited our 1st prediction on AICrowd
 
 - Week 2: -
           -
