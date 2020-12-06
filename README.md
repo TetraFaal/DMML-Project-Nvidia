@@ -54,5 +54,5 @@ actual test data and submit in the compet
 - [x] 3rd Week:  0.8169
 - [x] Last Week: 0.8185
 
-:chart_with_upwards_trend: Best results was obtained during Week 2, with the accuracy of 0.823 :white_check_mark:
+:arrow_right: Best results was obtained during Week 2, with the accuracy of 0.823 :white_check_mark:
 
