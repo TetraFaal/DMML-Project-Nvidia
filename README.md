@@ -15,11 +15,8 @@ As you build your model and train it on the training data, you can generate pred
 submission file on the Resources tab. Once you are sure about your model and satisfied with the
 prediction accuracy you got (on your own test data), you can try to generate predictions for the
 actual test data and submit in the compet
-In the readme.md you should a) mention the team name, b) describe the project c) your solution
-and some results (using figures). d) include also a link to the video that showcases your solution.
 
-A. What is the baserate of the problem
-B. A table with all of the classification techniques that we saw in the class (logistic regression,
-kNN, Decision trees,…), the parameters used and the achieved accuracy.
-C. Your progression of accuracies in a graph, and which technique (with what parameters)
-achieved it.
+### :calendar: Weekly summaries
+
+### :bulb: Results & Solutions
+
