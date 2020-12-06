@@ -49,10 +49,10 @@ actual test data and submit in the compet
 
 ### :bulb: Results
 
-[x] 1st Week:  0.81
-[x] 2nd Week:  0.823
-[x] 3rd Week:  0.8169
-[x] Last Week: 0.8185
+- [x] 1st Week:  0.81
+- [x] 2nd Week:  0.823
+- [x] 3rd Week:  0.8169
+- [x] Last Week: 0.8185
 
 :chart_with_upwards_trend: Best results was obtained during Week 2, with the accuracy of 0.823 :white_check_mark:
 
