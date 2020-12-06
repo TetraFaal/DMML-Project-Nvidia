@@ -2,7 +2,7 @@
 
 ## Data Mining and Machine Learning - University of Lausanne
 
-### Project description
+### :pencil: Project description
 
 In this project we are challenged to build a Machine Learning model that can predict which tweets are about real disasters and which are not. The
 project topic is based around a Kaggle competition. We have a training set with 6471 tweets and the information of it is a real disaster or a fake news. The goal is to train this model to have the best accuracy we can on the test set that is located on [AICROWD](https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course). Each teams can make up to 5 submission a day and then see it's accuracy and it's ranking. We can see the results of our fellow and makes the challenge even more competitive!
