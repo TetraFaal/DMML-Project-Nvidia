@@ -16,18 +16,18 @@ submission file on the Resources tab. Once you are sure about your model and sat
 prediction accuracy you got (on your own test data), you can try to generate predictions for the
 actual test data and submit in the compet
 
-### :calendar: Weekly summaries
+### :calendar: Weekly project progress
 
 - Week 1 
-  - Created the GitHub repository
+  - Created the GitHub repository :computer:
   - Created the colab project linked to the GitHub repository
   - Cleaned a first time the dataframe
-  - Visualization of the dataframe with some EDA functions
+  - Visualization of the dataframe with some EDA functions :bar_chart:
   - Trained the dataframe
-  - Submited our 1st prediction on AICrowd
+  - Submited our 1st prediction on AICrowd :chart_with_upwards_trend:
 
 - Week 2: 
-  - Calculated the base rate
+  - Calculated the base rate :calling:
   - Further cleaning and merging of keywords with the text
   - Calculated optimal Logistic regression parameters without the merged keywords
   - Calculated optimal Logistic regression parameters with the merged keywords
