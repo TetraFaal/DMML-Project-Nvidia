@@ -47,5 +47,5 @@ actual test data and submit in the compet
   - Final Version of the readme file
   - Final Version of the code
 
-### :bulb: Results & Solutions
+### :bulb: Results :bar_chart:
 
