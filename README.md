@@ -58,3 +58,5 @@ We then tried each week to train our models differently and with more complex fu
 
 :arrow_right: Best results was obtained during Week 2, with the accuracy of 0.823 :white_check_mark:
 
+:movie_camera: Follow the project presentation with our [YouTube](https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course) video
+
